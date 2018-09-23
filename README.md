@@ -4,8 +4,6 @@ A simple example.
 
 ## Setup
 
-    ./bootstrap.sh
-    cd vanilla-website
+    npm install
     npm run dev
-
 
