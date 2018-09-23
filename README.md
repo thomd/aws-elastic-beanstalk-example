@@ -6,7 +6,6 @@ A simple example.
 
     ./bootstrap.sh
     cd vanilla-website
-    npm install
     npm run dev
 
 
