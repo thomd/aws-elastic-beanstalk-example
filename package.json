@@ -1,8 +1,8 @@
 {
-  "name": "vanilla-website",
+  "name": "aws-eb-example",
   "version": "0.1.0",
   "description": "",
-  "main": "postcss.config.js",
+  "main": "",
   "scripts": {
     "dev:assets": "webpack --watch",
     "dev:start": "live-server --open=./public/ --host=localhost --watch=./public/",
@@ -11,7 +11,7 @@
     "start": "npm run build && node app.js"
   },
   "keywords": [],
-  "author": "Thomas Dürr <thomas.duerr@arvato.com>",
+  "author": "Thomas Dürr <thomduerr@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.1.0",
