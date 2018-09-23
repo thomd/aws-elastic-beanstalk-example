@@ -8,7 +8,7 @@
     "dev:start": "live-server --open=./public/ --host=localhost --watch=./public/",
     "dev": "npm-run-all -p dev:*",
     "build": "cross-env NODE_ENV=production webpack",
-    "start": "npm run build && node app.js"
+    "start": "node app.js"
   },
   "keywords": [],
   "author": "Thomas Dürr <thomduerr@gmail.com>",
